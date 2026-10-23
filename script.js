@@ -1,5 +1,5 @@
 // Contagem até o início previsto da festa.
-const targetDate = new Date("2026-10-31T19:00:00-03:00").getTime();
+const targetDate = new Date("2026-11-14T18:30:00-03:00").getTime();
 
 function updateCountdown() {
   const now = Date.now();
